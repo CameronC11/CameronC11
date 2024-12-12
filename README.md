@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CameronC11
+- 👀 I’m interested in machine learning and AI.
+- 🌱 I’m currently learning how to use C++.
+- 📫 How to reach me: Cameron.Caissie@outlook.com
+- 😄 Pronouns: he/him
